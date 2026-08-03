@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🏥 Diabetes Prediction System using Machine Learning
+# 🏥 Diabetes Prediction Analysis
 
-### 🔬 AI-Powered Diabetes Risk Prediction using Python, Scikit-learn & Streamlit
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python">
@@ -213,38 +213,6 @@ Evaluation Metrics:
 
 ---
 
-# 📸 Project Screenshots
-
-## 🏠 Home Page
-
-> Add your screenshot here
-
-```text
-images/home.png
-```
-
----
-
-## 📊 Prediction Page
-
-> Add your screenshot here
-
-```text
-images/prediction.png
-```
-
----
-
-## 📈 Result Page
-
-> Add your screenshot here
-
-```text
-images/result.png
-```
-
----
-
 # 📁 Folder Structure
 
 ```text
@@ -257,14 +225,6 @@ Diabetes_Prediction/
 ├── scaler.pkl
 ├── requirements.txt
 ├── README.md
-│
-├── images/
-│   ├── home.png
-│   ├── prediction.png
-│   └── result.png
-│
-└── .gitignore
-```
 
 ---
 
@@ -384,11 +344,10 @@ This project demonstrates:
 
 # 👨‍💻 Author
 
-**Name:** Sinchana G. S
+**Name:** Sinchana G.S
 
 🎓 Department of Artificial Intelligence
 
-🏫 Academic Machine Learning Project
 
 📧 GitHub: https://github.com/sinchanasuresh0210
 
@@ -408,8 +367,8 @@ This project demonstrates:
 
 <div align="center">
 
-## ⭐ If you like this project, consider giving it a star!
+The Diabetes Prediction System is an end-to-end Machine Learning application that predicts the risk of diabetes using patient medical data. By combining data analysis, machine learning, and a Streamlit web interface, the project provides accurate, fast, and user-friendly predictions. It demonstrates how AI can support early disease detection and showcases practical skills in data science, model deployment, and web application development.
 
-**Thank You for Visiting the Repository ❤️**
+
 
 </div>
