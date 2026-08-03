@@ -365,10 +365,11 @@ This project demonstrates:
 
 ---
 
-<div align="center">
-✅ Conclusion
+# ✅ Conclusion
+
+
 The Diabetes Prediction System is an end-to-end Machine Learning application that predicts the risk of diabetes using patient medical data. By combining data analysis, machine learning, and a Streamlit web interface, the project provides accurate, fast, and user-friendly predictions. It demonstrates how AI can support early disease detection and showcases practical skills in data science, model deployment, and web application development.
 
 
 
-</div>
+
